@@ -3,8 +3,8 @@ Restaurant Search Mobile Application in React Native
 
 ## Home Page:
 
-![Mockup 1](/mockup/mock1.jpg)
+![Mockup 1](/mockup/moc1.jpg)
 
 ## Detail Page:
 
-![Mockup 2](/mockup/mock2.jpg)
+![Mockup 2](/mockup/moc2.jpg)
